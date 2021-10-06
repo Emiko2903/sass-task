@@ -1,0 +1,20 @@
+.container .header .row .navbar .nav {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.container .header .row .navbar .nav .nav__text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.container .header .row .navbar .nav .nav__text a {
+  margin-left: 100px;
+}
+
+.container .header .row .navbar .nav .nav__text a li {
+  list-style: none;
+}
+/*# sourceMappingURL=style.css.map */
